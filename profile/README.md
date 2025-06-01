@@ -95,13 +95,13 @@
         "Open source contributions"
     ],
     "personal_interests": ["Novels", "Cinema", "Comedy", "Anime", "Outdoor Games"],
-    "tech_arsenal": [
-        "Languages": ["Python", "Java", "C", "C++", "SQL", "JavaScript"],
-        "Frameworks": ["React", "Django", "Flask", "FastAPI", "Streamlit", "NodeJS"],
-        "Cloud & DevOps": ["AWS", "Docker", "Kubernetes", "Git"],
-        "Databases": ["SQLite3", "MySQL", "MongoDB", "PostgreSQL"],
-        "Tools": ["VS Code", "PyCharm", "Jupyter", "Excel"]
-    ]
+    "tech_arsenal": {
+        "languages": ["Python", "Java", "C", "C++", "SQL", "JavaScript"],
+        "frameworks": ["React", "Django", "Flask", "FastAPI", "Streamlit", "NodeJS"],
+        "cloud_devops": ["AWS", "Docker", "Kubernetes", "Git"],
+        "databases": ["SQLite3", "MySQL", "MongoDB", "PostgreSQL"],
+        "tools": ["VS Code", "PyCharm", "Jupyter", "Excel"]
+    }
 }
 ```
 
@@ -161,6 +161,148 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="50" height="50" />
 </p>
 
+</div>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+> *"Every experiment teaches us something new. Every line of code brings us closer to innovation."*
+
+Explore our collection of innovative projects spanning AI, web development, and developer tools.
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🤖 AI & Machine Learning
+[![SignLanguageDetector](https://img.shields.io/badge/🤟_Sign_Language_Detector-Python-blue?style=for-the-badge)](https://github.com/Life-Experimentalist/SignLanguageDetector)
+![Stars](https://img.shields.io/github/stars/Life-Experimentalist/SignLanguageDetector?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+
+Real-time ISL 🇮🇳 recognition system using OpenCV, MediaPipe, and Flask. Bridges communication gaps with AI-powered gesture recognition.
+
+---
+
+[![RanobeGemini](https://img.shields.io/badge/📚_Ranobe_Gemini-JavaScript-yellow?style=for-the-badge)](https://github.com/Life-Experimentalist/RanobeGemini)
+![Stars](https://img.shields.io/github/stars/Life-Experimentalist/RanobeGemini?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+
+Browser extension enhancing web novel translations using Google's Gemini AI. One-click transformation of poorly translated content.
+
+</td>
+<td align="center" width="50%">
+
+### 🌐 Web Development
+[![HiveXplore](https://img.shields.io/badge/🐝_Hive_Xplore-Python-green?style=for-the-badge)](https://github.com/Life-Experimentalist/HiveXplore)
+![Stars](https://img.shields.io/github/stars/Life-Experimentalist/HiveXplore?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+
+Beginner-friendly Hive blockchain app introducing decentralized social media without technical barriers. Simplified Web3 experience.
+
+---
+
+[![eVidya](https://img.shields.io/badge/📖_eVidya-JavaScript-orange?style=for-the-badge)](https://github.com/Life-Experimentalist/eVidya)
+![Stars](https://img.shields.io/github/stars/Life-Experimentalist/eVidya?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+
+Interactive tech learning platform with progress tracking, video lessons, and quizzes. Self-paced education for programming languages.
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+### 🛠️ Developer Tools & Extensions
+[![cspell-sync](https://img.shields.io/badge/📝_cspell--sync-TypeScript-blue?style=for-the-badge)](https://github.com/Life-Experimentalist/cspell-sync)
+![Stars](https://img.shields.io/github/stars/Life-Experimentalist/cspell-sync?style=flat-square)
+[![Global-Save-State](https://img.shields.io/badge/💾_Global_Save_State-CSS-purple?style=for-the-badge)](https://github.com/Life-Experimentalist/Global-Save-State)
+![Stars](https://img.shields.io/github/stars/Life-Experimentalist/Global-Save-State?style=flat-square)
+
+VS Code extensions for enhanced development workflow - spell checking synchronization and project save state management.
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<h2 align="center">🤝 How to Contribute</h2>
+
+<div align="center">
+
+We welcome contributions from fellow experimentalists! Here's how you can get involved:
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🍴 Fork & Contribute
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Submit a pull request
+
+</td>
+<td align="center" width="33%">
+
+### 🐛 Report Issues
+Found a bug or have a suggestion?
+- Open an issue on GitHub
+- Provide detailed descriptions
+- Include reproduction steps
+
+</td>
+<td align="center" width="33%">
+
+### 💡 Share Ideas
+Have an innovative project idea?
+- Start a discussion
+- Collaborate on new experiments
+- Join our learning journey
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
+[![Contribute Now](https://img.shields.io/badge/Start_Contributing-Choose_Project-brightgreen?style=for-the-badge&logo=github)](https://github.com/Life-Experimentalist)
+
+</div>
+
+---
+
+<h2 align="center">📊 Organization Statistics</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Total_Repositories-6+-blue?style=for-the-badge&logo=github" alt="Total Repos"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Languages-5+-green?style=for-the-badge&logo=code" alt="Languages"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Active_Projects-6-orange?style=for-the-badge&logo=rocket" alt="Active Projects"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vkrishna04&theme=radical&hide_border=true&layout=compact&langs_count=10" alt="Languages Used" />
 </div>
 
 ---
