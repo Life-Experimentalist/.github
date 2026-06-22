@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://counter.vkrishna04.me/api/views/Life-Experimentalist/badge?color=a855f7" alt="Organization Views"/>
+  <img src="https://counter.vkrishna04.me/api/views/Life-Experimentalist/badge?color=a855f7&inc=true" alt="Organization Views"/>
 </p>
 
 <div align="center">
